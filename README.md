@@ -11,10 +11,10 @@ But to have access to different imaging is difficult and expensive. With the hel
 Let us build a Generative adversarial model(modified U-Net) which can generate artificial MRI images of different contrast levels from existing MRI scans.
 
 ## Data Set
-The data set to download from [here](https://github.com/BharathSD/CycleGAN-For-MRI/blob/main/MRI%2BT1_T2%2BDataset.RAR).\
+The data can be downloaded from [here](https://github.com/BharathSD/CycleGAN-For-MRI/blob/main/MRI%2BT1_T2%2BDataset.RAR).\
 Extract the rar file which has two folders <b>Tr1</b> and <b>Tr2</b>, which represents T1 weighted and T2 weighted MRI's respectively.\
 Tr1 folder has <b>TrainT1</b> which has 43 T1 weighted MRI images.\
-Tr2 folder has <b>TrainT2</b> which has 46 T2 weighted MRI images. \
+Tr2 folder has <b>TrainT2</b> which has 46 T2 weighted MRI images. 
 
 ## Package Dependencies
 - numpy - 1.19.2
